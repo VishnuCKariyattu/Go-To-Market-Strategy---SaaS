@@ -1,5 +1,5 @@
 # Go-To-Market-Strategy---SaaS
-**Go To Market Strategy for a SaaS product**
+**Go To Market Strategy for a SaaS product using PegaBlueprint AI**
 
 **DATA DRIVEN GO-TO-MARKET STRATEGY**
 
